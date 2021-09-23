@@ -1,3 +1,6 @@
+// Note to self: explore using a state machine to manage this
+// (statuses related to a collection) more better
+
 export enum OrderStatus {
   // when the order hs been created, but
   // the ticket it is trying to order has not been reserved
